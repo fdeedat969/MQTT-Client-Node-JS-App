@@ -1,0 +1,17 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aedes": "^0.48.1",
+    "express": "^4.18.2",
+    "mqtt": "^4.3.7",
+    "websocket-stream": "^5.5.2"
+  }
+}
